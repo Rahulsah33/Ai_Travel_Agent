@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc-dest-paris",
+    "title": "Paris Travel & Cultural Guide",
+    "category": "destinations",
+    "content": "Paris Travel Guide: Best time to visit is spring (April to May) or autumn (September to October). Key areas: Le Marais for boutique shopping and historic cafes, Montmartre for bohemian charm and Sacre-Coeur views, and Saint-Germain-des-Pres for classic Parisian dining. Navigo Easy passes or metro carnet tickets are best for public transit. Major museums like the Louvre and Musee d'Orsay require advance online time-slot reservations. Tipping in Parisian restaurants is discretionary as service charge (service compris) is included by law, but rounding up 5-10% for good service is appreciated."
+  },
+  {
+    "id": "doc-dest-goa",
+    "title": "Goa Beach & Insider Guide",
+    "category": "destinations",
+    "content": "Goa Destination Guide: North Goa (Anjuna, Vagator, Candolim, Calangute) is famous for lively beach shacks, night markets, water sports, and nightlife. South Goa (Palolem, Agonda, Benaulim, Majorda) offers pristine, tranquil beaches and luxury resorts. The peak season runs from November to February with pleasant temperatures (22°C to 30°C). Monsoon season (June to September) offers lush greenery and waterfall treks like Dudhsagar. Renting a scooter or self-drive car is the most popular way to explore."
+  },
+  {
+    "id": "doc-dest-kyoto",
+    "title": "Kyoto Cultural Etiquette & Guide",
+    "category": "destinations",
+    "content": "Kyoto Travel Guide: Best seasons are spring for cherry blossoms (sakura in late March to early April) and autumn for maple foliage (mid-November). Iconic spots include Fushimi Inari Taisha, Kinkaku-ji (Golden Pavilion), Arashiyama Bamboo Grove, and Gion historic district. Etiquette tips: Do not photograph geishas or maiko without permission in Gion; remove shoes when entering temples; keep noise low on public transit; purchase an IC card (ICOCA/Suica) for seamless bus and train navigation."
+  },
+  {
+    "id": "doc-dest-delhi",
+    "title": "Delhi Heritage & Food Guide",
+    "category": "destinations",
+    "content": "Delhi Travel Guide: Delhi is divided into Old Delhi (Chandni Chowk, Jama Masjid, Red Fort) known for street food and historic Mughal monuments, and New Delhi (India Gate, Rashtrapati Bhavan, Qutub Minar, Humayun's Tomb, Lodhi Garden) featuring wide avenues and colonial architecture. Best time to visit is October to March when the weather is cool and pleasant. The Delhi Metro is fast, air-conditioned, and connects all major terminals and sights. Food highlights include butter chicken in Daryaganj, parathas in Chandni Chowk, and chaat in Connaught Place."
+  },
+  {
+    "id": "doc-dest-rishikesh",
+    "title": "Rishikesh Adventure & Wellness Guide",
+    "category": "destinations",
+    "content": "Rishikesh Destination Guide: Known as the Yoga Capital of the World, situated along the sacred Ganges river in Uttarakhand. Prime activities include whitewater rafting (best September-November and March-May), bungee jumping at Mohan Chatti, attending the evening Ganga Aarti at Triveni Ghat or Parmarth Niketan, and visiting the Beatles Ashram (Chaurasi Kutia). Rishikesh is strictly vegetarian and alcohol-free by municipal law. Nearby Haridwar is only 45 minutes away by bus or taxi."
+  },
+  {
+    "id": "doc-dest-london",
+    "title": "London Transit & Sightseeing Guide",
+    "category": "destinations",
+    "content": "London Travel Guide: Top sights include Westminster Abbey, the British Museum (free entry), Tower Bridge, the London Eye, and Borough Market for world-class street food. Transport: Use contactless debit/credit card or Oyster card on the Underground (Tube) and red double-decker buses; daily fares are automatically capped. The weather is famously variable, so carry a light rain jacket or compact umbrella regardless of season."
+  },
+  {
+    "id": "doc-policy-flight",
+    "title": "General Flight Booking & Baggage Policies",
+    "category": "policies",
+    "content": "Flight Booking & Baggage Rules: Standard domestic economy flights include 7kg cabin baggage (one carry-on plus a personal laptop bag) and 15kg checked luggage. International flights typically permit 20kg to 30kg checked baggage depending on carrier and tier. Cancellations made at least 24 hours prior to scheduled departure are subject to standard airline cancellation fees; date modifications can be processed through customer support before flight check-in closes (typically 60 minutes before departure). Web check-in opens 48 hours before domestic flights and is mandatory for most airlines."
+  },
+  {
+    "id": "doc-policy-hotel",
+    "title": "Hotel Check-In & Cancellation Guidelines",
+    "category": "policies",
+    "content": "Hotel Policies & Guidelines: Standard hotel check-in time is 2:00 PM (14:00) and check-out time is 11:00 AM (11:00). Early check-in and late check-out are subject to room availability upon arrival and may incur an extra fee. Valid government-issued photo identification (Passport for international travelers, Aadhaar/Passport/Driver License for domestic guests) is mandatory at check-in. Free cancellation is generally offered up to 48 hours before the check-in date unless booked under a non-refundable promotional rate."
+  },
+  {
+    "id": "doc-policy-bus",
+    "title": "Bus Travel Guidelines & Luggage Rules",
+    "category": "policies",
+    "content": "Intercity Bus Travel Policies: Passengers should arrive at the designated boarding point 15 minutes before scheduled departure. Each passenger is permitted up to 2 medium-sized luggage pieces (maximum 20kg total) in the bus luggage compartment, plus one small personal backpack inside the passenger cabin. Sleeper buses feature personal reading lights and charging ports. Cancellations requested more than 12 hours prior to departure receive an 80% refund; cancellations within 4 hours of departure are non-refundable."
+  },
+  {
+    "id": "doc-tips-packing",
+    "title": "Smart Travel Packing & Health Tips",
+    "category": "travel-tips",
+    "content": "Travel Packing Tips: Keep universal power adapters, portable power banks, and vital medications in your carry-on luggage, never in checked baggage. Keep digital copies of your passport, visa, travel insurance, and hotel reservations offline on your mobile device. For tropical and coastal destinations, bring SPF 50+ sunscreen, insect repellent, and quick-dry breathable clothing."
+  }
+]

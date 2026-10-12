@@ -92,6 +92,21 @@ public class BusTools {
                     LocalTime.of(18, 30),     // 06:30 PM
                     LocalTime.of(8, 30),      // 08:30 AM
                     250
+            ),
+            new Bus("Bus-F", "106", "Delhi", "Jaipur", "2026-10-11",
+                    List.of("Sunday", "Tuesday", "Thursday"), LocalTime.of(7, 0), LocalTime.of(12, 30), 850),
+            new Bus("Bus-G", "107", "Jaipur", "Udaipur", "2026-10-12",
+                    List.of("Monday", "Wednesday", "Saturday"), LocalTime.of(8, 15), LocalTime.of(15, 0), 1100),
+            new Bus("Bus-H", "108", "Mumbai", "Pune", "2026-10-15",
+                    List.of("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), LocalTime.of(6, 0), LocalTime.of(9, 30), 650),
+            new Bus("Bus-I", "109", "Bengaluru", "Mysuru", "2026-10-17",
+                    List.of("Saturday", "Sunday"), LocalTime.of(7, 30), LocalTime.of(11, 0), 550),
+            new Bus("Bus-J", "110", "Chennai", "Pondicherry", "2026-10-20",
+                    List.of("Tuesday", "Thursday", "Saturday"), LocalTime.of(9, 0), LocalTime.of(12, 0), 450),
+            new Bus("Bus-K", "111", "Kolkata", "Bhubaneswar", "2026-10-22",
+                    List.of("Monday", "Wednesday", "Friday"), LocalTime.of(20, 0), LocalTime.of(6, 0), 1450),
+            new Bus("Bus-L", "112", "Ahmedabad", "Udaipur", "2026-10-24",
+                    List.of("Friday", "Saturday", "Sunday"), LocalTime.of(6, 30), LocalTime.of(12, 0), 900
             )
 
     );
